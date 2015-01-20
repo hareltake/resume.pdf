@@ -1,56 +1,47 @@
-王超 <hireable>Not Hireable</hireable>
+刘佳亮
+
 ========================================
 
-- 男， 汉族， 1992年4月生， 现居上海
+- 男， 汉族， 1994年12月2日出生，籍贯河北省
 
 - 电话: 1850-1617-303
 
-- 邮箱: hit9@icloud.com
+- 邮箱: skyline75489@outlook.com
 
-- GitHub: github.com/hit9
+- GitHub: github.com/skyline75489
+
+- 博客: skyline75489.github.io
 
 教育背景
 --------
 
-- 2010.09 - 2014.07 哈尔滨工业大学， 信息系统与信息管理专业， 本科
+- 2012.09 - 2016.07 哈尔滨工业大学，  软件学院，  软件工程专业，本科
 
 技能知识
 --------
 
-- 语言/平台: Python、Nodejs、C、CSS/HTML
+- 语言/平台: Python、Objective-C、Swift
 
-- 开发工具: Vim、Git、 Linux/OSX、 MySQL、GitHub等
+- 开发工具: Vim、Git、Windows/Linux/Mac OS X、Xcode、Github等
 
 项目经验
 --------
 
-- <datetime>2014.12 - now</datetime> <head_>**node-tsdb** *(github.com/eleme/node-tsdb)* <lang>Nodejs</lang></head_>
-<description>基于leveldb时间序列持久化存储数据库</description>
+- <datetime>2014.06 - now</datetime> <head_>**WI输入法iOS8版** *(wi.hit.edu.cn)* <lang>Objective-C</lang></head_>
+<description>WI输入法iOS8平台上的第一个版本，主要负责UI界面搭建</description>
 
-- <datetime>2014.08 - 2014.12</datetime> <head_>**node-bell** *(github.com/eleme/node-bell)* <lang>Nodejs</lang></head_>
-<description>实时时间序列异常点检测系统，在eleme用来实时监控接口调用次数、时长、异常等信息</description>
+- <datetime>2014.05 - 2014.08</datetime> <head_>**pyfm** *(https://github.com/skyline75489/pyfm)* <lang>Python</lang></head_>
+<description>豆瓣FM命令⾏行播放器，用于在命令行里播放豆瓣FM的广播</description>
 
-- <datetime>2014.07 - 2014.10</datetime> <head_>**node-ssdb & ssdb.py** *(github.com/eleme/node-ssdb & github.com/hit9/ssdb.py)* <lang>Nodejs/Python</lang></head_>
-<description>Nosql数据库服务器ssdb的Nodejs & Python客户端</description>
+- <datetime>2014.07 - 2014.8</datetime> <head_>**SimpleDNS** *(https://github.com/skyline75489/SimpleDNS)* <lang>Python</lang></head_>
+<description>一个小型DNS代理服务器，用于防⽌DNS污染</description>
 
-- <datetime>2012.09 - 2013.07</datetime> <head_>**skylark** *(github.com/hit9/skylark)* <lang>Python</lang></head_>
-<description>支持mysql/sqlite3的Python轻量级ORM框架</description>
+- <datetime>2014.05 - 2014.07</datetime> <head_>**Genie** *(https://github.com/skyline75489/Genie)*  <lang>Python, C</lang></head_>
+<description>一个微型静态博客生成工具</description>
 
-- <datetime>2013.02 - 2013.07</datetime> <head_>**rux** *(github.com/hit9/rux)*  <lang>Python, C</lang></head_>
-<description>极简飞快的静态博客生成器，用在个人的日记博客上</description>
+- <datetime>2014.4 - 2014.05</datetime> <head_>**hitlib2** *(https://github.com/HIT-ON-Github/hitlib2)* <lang>PHP</lang></head_>
+<description>美化版的哈工大图书馆网站，支持现代浏览器</description>
 
-- <datetime>2013.04 - 2013.07</datetime> <head_>**todo.c** *(github.com/hit9/todo.c)* <lang>C</lang></head_>
-<description>轻量的命令行todo管理工具，持久存储可读</description>
-
-实习与奖励
-----------
-
-- <datetime>2014.03 - now </datetime> <head_>**Eleme产品部平台架构组工程师**</head_>
-<description>Eleme后端基础RPC服务的维护、Metric监控与报警、日志收集与异常报警等</description>
-
-- <datetime>2013.07 - 2013.09</datetime> <head_>**知乎产品开发Python后端实习生**</head_>
-<description>负责维护知乎图片、视频和头像上传服务，修补日常bug等。在知乎不仅学到了很多开发技巧，
-而且学会融入团队，也更加热爱提问、热于帮别人解决问题。</description>
 
 其它
 ----
@@ -65,6 +56,5 @@
 - 积极向上、热爱自由、崇尚开源、待人友善、富有激情
 
 ![school-logo](../images/hit_logo.jpg)
-![avatar](../images/avatar.jpg)
 
-<footnote>Resumé Git Repository: https://github.com/hit9/resume.pdf</footnote>
+<footnote>Resumé Git Repository: https://github.com/skyline75489/resume.pdf</footnote>
