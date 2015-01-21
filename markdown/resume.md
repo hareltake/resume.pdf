@@ -1,7 +1,7 @@
 刘佳亮
 ========================================
 
-- 男， 汉族， 1994年12月2日出生，籍贯河北省
+- 男，汉族，1994年12月2日出生，籍贯河北省
 
 - 电话: 1820-4613-613
 
@@ -11,10 +11,17 @@
 
 - 博客: skyline75489.github.io
 
-教育背景
+求职意向
+-------
+
+- Python 研发工程师
+
+- iOS 研发工程师
+
+教育背景 
 --------
 
-- 2012.09 - 现在 哈尔滨工业大学，  软件学院，  软件工程专业，本科
+- 2012.09 - 现在 哈尔滨工业大学，软件学院，软件工程专业，本科
 
 技能知识
 --------
@@ -40,11 +47,8 @@
 - <datetime>2014.05 - 2014.07</datetime> <head_>**Genie** *(https://github.com/skyline75489/Genie)*  <lang>Python</lang></head_>
 <description>一个微型的静态博客生成工具，支持使用Markdown写作</description>
 
-- <datetime>2014.04 - 2014.05</datetime> <head_>**hitlib2** *(https://github.com/HIT-ON-Github/hitlib2)* <lang>PHP</lang></head_>
-<description>美化版的哈工大图书馆网站，支持现代浏览器</description>
-
 - <datetime>2014.10 - 2014.12</datetime> <head_>**lunar** *(https://github.com/jasonlvhit/lunar)* <lang>Python</lang></head_>
-<description>一个类似Flask的小型Web开发框架，负责一部分测试工作</description>
+<description>一个类似Flask的小型Web开发框架，负责一部分开发和测试工作</description>
 
 其它
 ----
@@ -61,5 +65,4 @@
 - 乐于探索，敢于钻研，有较强的学习能力
 
 - 踏实靠谱，相信勤能补拙
-
 
