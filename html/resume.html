@@ -4,66 +4,76 @@
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <style type="text/css" media="all">
     html, body {
-  height: 100%;
+    height: 100%;
 }
 
 body {
-  font: 13px/1.3 Verdana Helvetica, arial, freesans, clean, sans-serif;
-  color: #333;
-  background-color: #fff;
+    font: 13px/1.3 Verdana Helvetica, arial, freesans, clean, sans-serif;
+    color: #333;
+    background-color: #fff;
 }
 
 a {
-  text-decoration: none;
-  color: black;
+    text-decoration: none;
+    color: black;
 }
 
 a: hover {
-  text-decoration: underline;
-  color: black;
+    text-decoration: underline;
+    color: black;
 }
 
 /* Headlines has different font sizes */
+h1, h2, h3, h4, h5, h6 {
+    margin: 20px 0 10px;
+    padding: 0;
+    font-weight: bold;
+    -webkit-font-smoothing: antialiased;
+    cursor: text;
+    position: relative;
+}
+  
 h1 {
-  font-size: 1.6em;
+    font-size: 1.8em;
+    color: black;
+    border-bottom: 1px solid #cccccc;
 }
 
 h2 {
-  font-size: 1.2em;
+    font-size: 1.3em;
+    border-bottom: 1px solid #cccccc;
+    color: black;
 }
 
-/* H1 and H2 has underline */
-h1, h2 {
-  border-bottom: 1px solid #999;
-  font-weight: bold;
-}
 
 /* ul & li */
 ul {
-  list-style-type: circle;
-  margin-left: -0.4em;
+    list-style-type: circle;
+    margin-left: -0.4em;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 li {
-  display: list-item;
+    display: list-item;
 }
 
 /* school logo */
 img[alt="school-logo"] {
-  position: absolute;
-  top: .3em;
-  right: .8em;
-  height: 1.7em;
-  background-color: #fff;
+    position: absolute;
+    top: .3em;
+    right: .8em;
+    height: 1.7em;
+    background-color: #fff;
 }
 
 /* avatar */
 img[alt="avatar"] {
-  position: absolute;
-  top: 3.8em;
-  right: 1em;
-  height: 8.5em;
-  background-color: #fff;
+    position: absolute;
+    top: 3.8em;
+    right: 1em;
+    height: 8.5em;
+    background-color: #fff;
 }
 
 
@@ -71,44 +81,44 @@ img[alt="avatar"] {
 /* ---- only for those ugly lists !--- */
 
 li em {
-  font-size: .8em;
-  color: #777;
-  font-style: italic;
+    font-size: .8em;
+    color: #777;
+    font-style: italic;
 }
 
 datetime {
-  display: inline-block;
-  width: 9em;
+    display: inline-block;
+    width: 9em;
 }
 
 head_ {
-  border-bottom: 1px solid #ddd;
-  margin-left: .5em;
+    border-bottom: 1px solid #ddd;
+    margin-left: .5em;
 }
 
 lang {
-  float: right;
-  font-size: .8em;
-  border-bottom: 1px dotted #ddd;
+    float: right;
+    font-size: .8em;
+    border-bottom: 1px dotted #ddd;
 }
 
 description {
-  margin-top: .5em; /* away from big title, looks like a block*/
-  display: block;
-  margin-left: 9.8em;  /* 9 + .5 + .3*/
+    margin-top: .5em; /* away from big title, looks like a block*/
+    display: block;
+    margin-left: 9.8em;  /* 9 + .5 + .3*/
 }
 
 hireable {
-  font-size: 1em;
-  color: #777;
+    font-size: 1em;
+    color: #777;
 }
 
 footnote {
-  position: absolute;
-  bottom: 0;
-  display: block;
-  font-size: .8em;
-  color: #777;
+    position: absolute;
+    bottom: 0;
+    display: block;
+    font-size: .8em;
+    color: #777;
 }
 
   </style>
@@ -118,17 +128,11 @@ footnote {
 
 <ul>
 <li><p>男，汉族，1994年12月2日出生，籍贯河北省</p></li>
-<li><p>电话: 1820-4613-613</p></li>
+<li><p>电话: (+86)182-0461-3613</p></li>
 <li><p>邮箱: <a href="mailto:skyline75489@outlook.com">skyline75489@outlook.com</a></p></li>
-<li><p>GitHub: github.com/skyline75489</p></li>
-<li><p>博客: skyline75489.github.io</p></li>
-</ul>
-
-<h2>求职意向</h2>
-
-<ul>
-<li><p>Python 研发工程师</p></li>
-<li><p>iOS 研发工程师</p></li>
+<li><p>博客: <a href="http://skyline75489.github.io">http://skyline75489.github.io</a></p></li>
+<li><p>GitHub: <a href="http://github.com/skyline75489">http://github.com/skyline75489</a></p></li>
+<li><p>StackOverflow: <a href="https://stackoverflow.com/users/3562486/skyline75489">https://stackoverflow.com/users/3562486/skyline75489</a></p></li>
 </ul>
 
 <h2>教育背景 </h2>
@@ -140,39 +144,24 @@ footnote {
 <h2>技能知识</h2>
 
 <ul>
-<li><p>语言: Python、Objective-C、Swift</p></li>
+<li><p>语言: Python &gt; Objective-C &gt; Swift</p></li>
 <li><p>平台: Windows/Linux/Mac OS X</p></li>
-<li><p>开发工具和网站: Vim、Sublime Text、Git、Xcode、PyCharm、Github、StackOverflow等</p></li>
+<li><p>开发工具: Vim、Sublime Text、Git、Xcode、PyCharm等</p></li>
 </ul>
 
 <h2>项目经验</h2>
 
 <ul>
 <li><p><datetime>2014.06 - 现在</datetime> <head_><strong>WI输入法iOS8版</strong> <em>(<a href="http://wi.hit.edu.cn">http://wi.hit.edu.cn</a>)</em> <lang>Objective-C</lang></head_>
-<description>WI输入法iOS8平台上的第一个版本，核心开发成员之一</description></p></li>
+<description>WI输入法iOS8平台上的第一个版本，核心开发成员之一，产品已上架App Store</description></p></li>
 <li><p><datetime>2014.05 - 2014.08</datetime> <head_><strong>pyfm</strong> <em>(<a href="https://github.com/skyline75489/pyfm">https://github.com/skyline75489/pyfm</a>)</em> <lang>Python</lang></head_>
-<description>豆瓣FM命令⾏播放器，用于在命令行里播放豆瓣FM的音乐</description></p></li>
+<description>豆瓣FM命令⾏播放器，用于在命令行里播放豆瓣FM的音乐，已被<a href="https://aur.archlinux.org/packages/pyfm/">AUR</a>收录</description></p></li>
 <li><p><datetime>2014.07 - 2014.08</datetime> <head_><strong>SimpleDNS</strong> <em>(<a href="https://github.com/skyline75489/SimpleDNS">https://github.com/skyline75489/SimpleDNS</a>)</em> <lang>Python</lang></head_>
 <description>一个小型DNS代理服务器，用于防⽌DNS污染</description></p></li>
 <li><p><datetime>2014.05 - 2014.07</datetime> <head_><strong>Genie</strong> <em>(<a href="https://github.com/skyline75489/Genie">https://github.com/skyline75489/Genie</a>)</em>  <lang>Python</lang></head_>
 <description>一个微型的静态博客生成工具，支持使用Markdown写作</description></p></li>
 <li><p><datetime>2014.10 - 2014.12</datetime> <head_><strong>lunar</strong> <em>(<a href="https://github.com/jasonlvhit/lunar">https://github.com/jasonlvhit/lunar</a>)</em> <lang>Python</lang></head_>
 <description>一个类似Flask的小型Web开发框架，负责一部分开发和测试工作</description></p></li>
-</ul>
-
-<h2>其它</h2>
-
-<ul>
-<li><p>爱好: 音乐，阅读、电影</p></li>
-<li><p>特长: 会弹一点吉他</p></li>
-</ul>
-
-<h2>自我评价</h2>
-
-<ul>
-<li><p>热爱开源，喜欢自由，对新技术充满好奇</p></li>
-<li><p>乐于探索，敢于钻研，有较强的学习能力</p></li>
-<li><p>踏实靠谱，相信勤能补拙</p></li>
 </ul>
 
 </body>
