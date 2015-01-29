@@ -1,8 +1,6 @@
 刘佳亮
 ========================================
 
-- 男，汉族，1994年12月2日出生，籍贯河北省
-
 - 电话: (+86)182-0461-3613
 
 - 邮箱: skyline75489@outlook.com
@@ -28,6 +26,8 @@
 
 - 开发工具: Vim、Sublime Text、Git、Xcode、PyCharm等
 
+- 英语能力: CET4, CET6, 能够独立阅读英文文档
+
 项目经验
 --------
 
@@ -46,3 +46,22 @@
 - <datetime>2014.10 - 2014.12</datetime> <head_>**lunar** *(https://github.com/jasonlvhit/lunar)* <lang>Python</lang></head_>
 <description>一个类似Flask的小型Web开发框架，负责一部分开发和测试工作</description>
 
+社团经历
+-------
+
+- 大二时成为哈工大阿里巴巴技术联盟负责人之一
+
+- 主讲了若干次技术分享活动，向下一届学弟们分享了有关开源，GFW等知识
+
+- 组织并参与了“开源社全国高校系列巡回演讲——开源者行”哈工大站
+
+- 活动邀请到了Gitcafe CEO Thomas Yao，和来自LeanCloud的杨朝中作为演讲嘉宾
+
+自我评价
+-------
+
+- 热爱开源精神，Github重度用户
+
+- 踏实靠谱，一个暑假没回家在学校完成了WI输入法iOS8版前期的CodeBase
+
+- 有较强的学习能力，在没有iOS开发经验的情况下，一个暑假没回家在学校完成了WI输入法iOS8版前期的CodeBase
